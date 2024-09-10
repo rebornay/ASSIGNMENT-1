@@ -10,3 +10,13 @@
 body {
     background-color: #202020;
 }
+
+main {
+    border: 1px solid white;
+    margin: 0 auto;
+    height: 40vh;
+    width: 30%;
+    margin-block-start: 50px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
